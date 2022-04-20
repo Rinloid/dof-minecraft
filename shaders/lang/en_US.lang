@@ -1,0 +1,11 @@
+# Names
+
+option.ENABLE_DOF = §bEnable Depth of Field§r
+option.centerDepthHalflife = Update Time (ticks)
+option.DOF_STEPS = Processing Count
+
+# Comments
+
+option.ENABLE_DOF.comment = Enable or disable the effect.
+option.centerDepthHalflife.comment = Set the speed of updating time of the effect.
+option.DOF_STEPS.comment = Set the count of the processing count of the effect.  §4Warning: higher numbers mean lag!.

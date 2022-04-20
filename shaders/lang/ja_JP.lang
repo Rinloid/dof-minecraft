@@ -1,0 +1,11 @@
+# 名前
+
+option.ENABLE_DOF = §bEnable Depth of Field を有効化§r
+option.centerDepthHalflife = 更新速度 (ティック単位)
+option.DOF_STEPS = 処理回数
+
+# コメント
+
+option.ENABLE_DOF.comment = エフェクトの有効化／無効化。.
+option.centerDepthHalflife.comment = エフェクトの更新時間を設定します。.
+option.DOF_STEPS.comment = エフェクトの処理回数を設定します。.  §4注意：数が大きいほど負荷がかかります。§r.
